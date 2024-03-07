@@ -1,3 +1,8 @@
+Create react app (with Progressive Web App):
+``` bash
+npx create-react-app login --template cra-template-pwa
+```
+
 Download new files Login.js and Login.css and save them in the src folder
 Change the code of App.js 
 
